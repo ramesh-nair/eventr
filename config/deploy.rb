@@ -1,7 +1,7 @@
 
 set :repo_url,        'git@github.com:shauryashahi/eventr.git'
 set :application,     'eventr'
-set :user,            'deploy'
+set :user,            'newuser'
 set :puma_threads,    [4, 16]
 set :puma_workers,    0
 
@@ -20,13 +20,13 @@ set :puma_worker_timeout, nil
 set :puma_init_active_record, false  # Change to true if using ActiveRecord
 set :linked_files, %w{config/database.yml config/application.yml}
 set :linked_dirs, %w{log tmp/pids tmp/cache tmp/sockets vendor/bundle public/system public/uploads}
-
 ## Defaults:
 # set :scm,           :git
 # set :branch,        :master
 # set :format,        :pretty
 # set :log_level,     :debug
 # set :keep_releases, 5
+set :default_shell, :bash
 
 ## Linked Files & Directories (Default None):
 # set :linked_files, %w{config/database.yml}

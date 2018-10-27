@@ -83,6 +83,6 @@ production:
   host: localhost
   port: 5432
   username: eventr-api
-  password: <%= ENV['EVENTR-API_DATABASE_PASSWORD'] %>
+  password: <%= ENV['DB_PASS'] %>
   database: eventr-api_production
 

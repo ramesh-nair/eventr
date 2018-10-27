@@ -185,7 +185,7 @@ module Constants
       "before"=> "TmprMk9UazVORFkzTVRBMk56QTNPakUwTkRBNE16RTJNREE2TVRZAMU1EZAzBPRGsyT0RRNE5UZA3gZD",
       "after"=> "TkRReU56RTFOVGt5TkRJMk56RTRPakV6TkRFeU9EWXlNREE2TVRZAMU1EZAzBPRGsyT0RRNE5UZA3gZD"
     },
-    "next"=> "https://graph.facebook.com/v2.7/10153857359586274/events?access_token=EAAEy9c638G8BAJTuGmjXOOVO00yPIlbt63ZA6Tz3mfvQtnFiOHKvNfcLHA0BYI9WkrCyj8Xx8KtiA7sQXc4ByvdzcjU2BcyV5giZBWFcqIDnZCmdmbsJdvhqUUU96lA0oYnc2YIsTgdSZC8IgZBfm&pretty=0&fields=id%2Cname%2Ccover%2Cis_canceled%2Cattending_count%2Cmaybe_count%2Cinterested_count%2Cstart_time&type=attending&limit=25&after=TkRReU56RTFOVGt5TkRJMk56RTRPakV6TkRFeU9EWXlNREE2TVRZAMU1EZAzBPRGsyT0RRNE5UZA3gZD"
+    "next"=> "https://graph.facebook.com/v3.2/10153857359586274/events?access_token=EAAEy9c638G8BAJTuGmjXOOVO00yPIlbt63ZA6Tz3mfvQtnFiOHKvNfcLHA0BYI9WkrCyj8Xx8KtiA7sQXc4ByvdzcjU2BcyV5giZBWFcqIDnZCmdmbsJdvhqUUU96lA0oYnc2YIsTgdSZC8IgZBfm&pretty=0&fields=id%2Cname%2Ccover%2Cis_canceled%2Cattending_count%2Cmaybe_count%2Cinterested_count%2Cstart_time&type=attending&limit=25&after=TkRReU56RTFOVGt5TkRJMk56RTRPakV6TkRFeU9EWXlNREE2TVRZAMU1EZAzBPRGsyT0RRNE5UZA3gZD"
   }
 
   DUMMY_NEARBY_EVENTS = {
