@@ -1,5 +1,5 @@
 
-set :repo_url,        'git@github.com:shauryashahi/eventr.git'
+set :repo_url,        'git@github.com:ramesh-nair/eventr-backend.git'
 set :application,     'eventr'
 set :user,            'newuser'
 set :puma_threads,    [4, 16]
